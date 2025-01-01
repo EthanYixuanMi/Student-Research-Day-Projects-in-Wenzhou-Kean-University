@@ -19,7 +19,7 @@ This collection highlights projects presented at Student Research Day, each demo
   - Successfully reproduced three machine learning models
   - Validated each model with 50 iterations
   - Established a comprehensive portfolio optimization framework
-[Learn More](~/Machine-Learning-in-Quantitative-Finance)
+[Learn More](./Machine-Learning-in-Quantitative-Finance)
 
 #### *More projects will be added as research continues...*
 
