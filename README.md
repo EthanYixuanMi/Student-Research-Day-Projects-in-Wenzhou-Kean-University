@@ -19,6 +19,7 @@ This collection highlights projects presented at Student Research Day, each demo
   - Successfully reproduced three machine learning models
   - Validated each model with 50 iterations
   - Established a comprehensive portfolio optimization framework
+[Learn More](./CPS2232)
 
 #### *More projects will be added as research continues...*
 
