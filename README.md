@@ -8,7 +8,7 @@ This collection highlights projects presented at Student Research Day, each demo
 
 ### Current Projects
 
-#### 1. Enhancing Portfolio Optimization with Data Fusion and Machine Learning
+#### 1. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
 - **Introduction**: This project aims to revolutionize portfolio optimization in quantitative finance by integrating advanced machine learning techniques and data fusion methodologies.
 - **Key Technologies**:
   - Machine Learning Models (LSTM, Random Forests, Gradient Boosting)
@@ -19,6 +19,7 @@ This collection highlights projects presented at Student Research Day, each demo
   - Successfully reproduced three machine learning models
   - Validated each model with 50 iterations
   - Established a comprehensive portfolio optimization framework
+
 [Machine Learning in Quantitative Finance](https://github.com/EthanYixuanMi/Machine-Learning-in-Quantitative-Finance)
 
 
@@ -34,7 +35,7 @@ Yixuan Mi
 
 ## Repository Updates
 
-This repository will be continuously updated as new Student Research Day projects are completed. Each project will include detailed documentation and explanations to showcase the research process and outcomes.
+This repository will continuously update as new Student Research Day projects are completed. Each project will include detailed documentation and explanations to showcase the research process and outcomes.
 
 ---
 *This repository is actively maintained and will be updated with new research projects and academic achievements. For any questions or suggestions, please feel free to reach out through the contact information provided above.*
