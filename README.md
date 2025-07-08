@@ -5,7 +5,8 @@ This repository showcases Yixuan Mi's research projects presented at Student Res
 ## Overview
 
 This collection highlights projects presented at Student Research Day, each demonstrating exploration and innovation in specific research areas.
-The posters are available at [here](./Posters). 
+
+Project posters are available [here](./Posters).
 
 ### Current Projects
 
