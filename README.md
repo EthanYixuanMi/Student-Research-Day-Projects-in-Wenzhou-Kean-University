@@ -20,7 +20,7 @@ This collection highlights projects presented at Student Research Day, each demo
   - Validated each model with 50 iterations
   - Established a comprehensive portfolio optimization framework
 
-[Machine Learning in Quantitative Finance](https://github.com/EthanYixuanMi/Machine-Learning-in-Quantitative-Finance)
+[More Details](https://github.com/EthanYixuanMi/Machine-Learning-in-Quantitative-Finance)
 
 
 #### *More projects will be added as research continues...*
