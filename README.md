@@ -22,8 +22,6 @@ This collection highlights projects presented at Student Research Day, each demo
   - Outperformed state-of-the-art MSE-based (e.g., RED-CNN) and GAN-based (e.g., DU-GAN, WGAN-VGG) models in both visual and quantitative evaluations
   - Demonstrated effectiveness of dual-domain learning through comprehensive ablation studies
 
-[More Details](https://github.com/EthanYixuanMi)
-
 
 #### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
 - **Introduction**: This project aims to revolutionize portfolio optimization in quantitative finance by integrating advanced machine learning techniques and data fusion methodologies.
@@ -36,8 +34,6 @@ This collection highlights projects presented at Student Research Day, each demo
   - Successfully reproduced three machine learning models
   - Validated each model with 50 iterations
   - Established a comprehensive portfolio optimization framework
-
-[More Details](https://github.com/EthanYixuanMi/Machine-Learning-in-Quantitative-Finance)
 
 
 #### *More projects will be added as research continues...*
