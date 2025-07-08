@@ -8,7 +8,24 @@ This collection highlights projects presented at Student Research Day, each demo
 
 ### Current Projects
 
-#### 1. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
+#### 1. FD-GAN: A Dual-Domain Approach with Fourier Domain Discriminators for Denoising Low-Dose CT Images (Poster Presentation Outstanding Award Winner at SRD 2025, Wenzhou-Kean University)
+- **Introduction**: This project addresses the challenge of denoising low-dose CT (LDCT) images, aiming to minimize radiation exposure while preserving diagnostic accuracy. It proposes a novel dual-domain GAN model, FD-GAN, that leverages both spatial and Fourier domains to enhance detail recovery and training stability.
+- **Key Technologies**:
+  - Generative Adversarial Networks (GANs)
+  - U-Net Discriminators in Image & Fourier Domains
+  - Fourier Transform-Based Losses
+  - PyTorch Deep Learning Framework
+- **Data Source**: NIHAAPM-Mayo Clinic Low-Dose CT Dataset (2016 Low Dose CT Grand Challenge)
+- **Research Outcomes**:
+  - Developed a novel FD-GAN framework with dual-domain discriminators
+  - Achieved superior denoising performance with improved PSNR and SSIM on both Chest-10% and Head-25% datasets
+  - Outperformed state-of-the-art MSE-based (e.g., RED-CNN) and GAN-based (e.g., DU-GAN, WGAN-VGG) models in both visual and quantitative evaluations
+  - Demonstrated effectiveness of dual-domain learning through comprehensive ablation studies
+
+[More Details](https://github.com/EthanYixuanMi)
+
+
+#### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
 - **Introduction**: This project aims to revolutionize portfolio optimization in quantitative finance by integrating advanced machine learning techniques and data fusion methodologies.
 - **Key Technologies**:
   - Machine Learning Models (LSTM, Random Forests, Gradient Boosting)
