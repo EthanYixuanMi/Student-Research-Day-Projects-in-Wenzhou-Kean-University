@@ -27,9 +27,9 @@ This collection highlights projects presented at Student Research Day, each demo
 
 ## About the Author
 
-Mi Yixuan
+Yixuan Mi
 - Undergraduate CS Student at Wenzhou-Kean University
-- Research Interests: Quantitative Finance, Machine Learning, Data Analysis
+- Research Interests: Machine Learning, Computer Vision, NLP, Quantitative Finance
 - GitHub: [EthanYixuanMi](https://github.com/EthanYixuanMi)
 - Email: yixuanmi25@gmail.com
 
