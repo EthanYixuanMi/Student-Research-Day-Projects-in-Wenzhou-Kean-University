@@ -1,6 +1,6 @@
 # Student-Research-Day-Projects-in-Wenzhou-Kean-University
 
-This repository showcases Mi Yixuan's research projects presented at Student Research Day during his undergraduate studies at Wenzhou-Kean University. These projects represent various research directions and academic achievements explored throughout different semesters.
+This repository showcases Yixuan Mi's research projects presented at Student Research Day during his undergraduate studies at Wenzhou-Kean University. These projects represent various research directions and academic achievements explored throughout different semesters.
 
 ## Overview
 
