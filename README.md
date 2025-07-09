@@ -35,9 +35,9 @@ This paper has been accepted to the International Joint Conference on Neural Net
   - Data Fusion Methods
 - **Data Source**: CSMAR (China Stock Market & Accounting Research Database)
 - **Research Outcomes**: 
-  - Successfully reproduced three machine learning models
-  - Validated each model with 50 iterations
-  - Established a comprehensive portfolio optimization framework
+  - Applied data fusion and deep learning to optimize financial portfolios
+  - Reproduced and tested advanced models 50+ times with consistent performance
+  - Planned sentiment analysis module for enhanced trading insight
 
 
 #### *More projects will be added as research continues...*
