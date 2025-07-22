@@ -24,7 +24,8 @@ Project posters are available [here](./Posters).
   - Outperformed state-of-the-art MSE-based (e.g., RED-CNN) and GAN-based (e.g., DU-GAN, WGAN-VGG) models in both visual and quantitative evaluations
   - Demonstrated effectiveness of dual-domain learning through comprehensive ablation studies
 
-This paper has been accepted to the International Joint Conference on Neural Networks (IJCNN) 2025. [Click here to see the paper](https://ieeexplore.ieee.org).
+This paper has been accepted to the International Joint Conference on Neural Networks (IJCNN) 2025.   
+[Click here to see the paper](https://ieeexplore.ieee.org).
 
 
 #### 2. Enhancing Portfolio Optimization with Data Fusion and Machine Learning in Quantitative Finance (Outstanding Research Award Winner at SRD 2024, Wenzhou-Kean University)
