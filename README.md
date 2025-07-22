@@ -1,5 +1,12 @@
 # Student Research Day Projects in Wenzhou-Kean University
 
+[![Author](https://img.shields.io/badge/Author-Yixuan%20Mi-blue.svg)](https://github.com/EthanYixuanMi)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
+[![Contact](https://img.shields.io/badge/contact-email-red.svg)](mailto:yixuanmi25@gmail.com)
+[![Conference](https://img.shields.io/badge/Published%20at-IJCNN%202025-orange.svg)](https://ieeexplore.ieee.org)
+
+
 This repository showcases Yixuan Mi's research projects presented at Student Research Day during his undergraduate studies at Wenzhou-Kean University. These projects represent various research directions and academic achievements explored throughout different semesters.
 
 ## Overview
