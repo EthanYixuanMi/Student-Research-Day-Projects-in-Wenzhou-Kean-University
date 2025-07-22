@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 [![Status](https://img.shields.io/badge/status-active-brightgreen.svg)](#)
 [![Contact](https://img.shields.io/badge/contact-email-red.svg)](mailto:yixuanmi25@gmail.com)
-[![Conference](https://img.shields.io/badge/Published%20at-IJCNN%202025-orange.svg)](https://ieeexplore.ieee.org)
+[![Conference](https://img.shields.io/badge/Published%20at-IJCNN%202025-orange.svg)]([https://ieeexplore.ieee.org](https://2025.ijcnn.org/))
 
 
 This repository showcases Yixuan Mi's research projects presented at Student Research Day during his undergraduate studies at Wenzhou-Kean University. These projects represent various research directions and academic achievements explored throughout different semesters.
@@ -31,7 +31,7 @@ Project posters are available [here](./Posters).
   - Outperformed state-of-the-art MSE-based (e.g., RED-CNN) and GAN-based (e.g., DU-GAN, WGAN-VGG) models in both visual and quantitative evaluations
   - Demonstrated effectiveness of dual-domain learning through comprehensive ablation studies
 
-This paper has been accepted to the International Joint Conference on Neural Networks (IJCNN) 2025.   
+This paper has been accepted to the [International Joint Conference on Neural Networks (IJCNN) 2025](https://2025.ijcnn.org/).   
 [Click here to see the paper](https://ieeexplore.ieee.org).
 
 
