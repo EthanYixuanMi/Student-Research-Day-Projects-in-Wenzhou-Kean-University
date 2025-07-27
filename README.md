@@ -1,4 +1,4 @@
-# Student Research Day Projects in Wenzhou-Kean University
+# Student Research Day Projects in WKU
 
 [![Author](https://img.shields.io/badge/Author-Yixuan%20Mi-blue.svg)](https://github.com/EthanYixuanMi)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
